@@ -1,0 +1,21 @@
+tool,capability,value,source_url
+MP3 to MIDI,processing_location,"In the visitor's browser; files are not uploaded to any server",https://melodytomidi.com/
+MP3 to MIDI,input_format,"MP3",https://melodytomidi.com/
+MP3 to MIDI,controls,"MIDI tempo; lowest note; note sensitivity",https://melodytomidi.com/
+MP3 to MIDI,output_format,"Downloadable MIDI file (.mid)",https://melodytomidi.com/
+Audio to MIDI,processing_location,"In the visitor's browser; files are not uploaded to any server",https://melodytomidi.com/audio-to-midi/
+Audio to MIDI,input_format,"MP3 or WAV",https://melodytomidi.com/audio-to-midi/
+Audio to MIDI,controls,"MIDI tempo; lowest note; note sensitivity",https://melodytomidi.com/audio-to-midi/
+Audio to MIDI,output_format,"Downloadable MIDI file (.mid)",https://melodytomidi.com/audio-to-midi/
+WAV to MIDI,processing_location,"In the visitor's browser; files are not uploaded to any server",https://melodytomidi.com/wav-to-midi/
+WAV to MIDI,input_format,"WAV",https://melodytomidi.com/wav-to-midi/
+WAV to MIDI,controls,"MIDI tempo; lowest note; note sensitivity",https://melodytomidi.com/wav-to-midi/
+WAV to MIDI,output_format,"Downloadable MIDI file (.mid)",https://melodytomidi.com/wav-to-midi/
+MP3 to MIDI Converter,processing_location,"In the visitor's browser; files are not uploaded to any server",https://melodytomidi.com/mp3-to-midi-converter/
+MP3 to MIDI Converter,input_format,"MP3",https://melodytomidi.com/mp3-to-midi-converter/
+MP3 to MIDI Converter,controls,"MIDI tempo; lowest note; note sensitivity",https://melodytomidi.com/mp3-to-midi-converter/
+MP3 to MIDI Converter,output_format,"Downloadable MIDI file (.mid)",https://melodytomidi.com/mp3-to-midi-converter/
+Change MP3 to MIDI,processing_location,"In the visitor's browser; files are not uploaded to any server",https://melodytomidi.com/change-mp3-to-midi/
+Change MP3 to MIDI,input_format,"MP3",https://melodytomidi.com/change-mp3-to-midi/
+Change MP3 to MIDI,controls,"MIDI tempo; lowest note; note sensitivity",https://melodytomidi.com/change-mp3-to-midi/
+Change MP3 to MIDI,output_format,"Downloadable MIDI file (.mid)",https://melodytomidi.com/change-mp3-to-midi/
